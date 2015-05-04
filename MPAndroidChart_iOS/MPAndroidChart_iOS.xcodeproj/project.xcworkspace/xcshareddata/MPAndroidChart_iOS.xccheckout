@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D23B103F-5FE7-400D-B962-AAE7CCF3BDA0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MPAndroidChart_iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4BA29C6F41B5103A7F6C03EEB3D2917048D0E53A</key>
+		<string>https://github.com/suxinde2009/MPAndroidChart_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MPAndroidChart_iOS/MPAndroidChart_iOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4BA29C6F41B5103A7F6C03EEB3D2917048D0E53A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/suxinde2009/MPAndroidChart_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4BA29C6F41B5103A7F6C03EEB3D2917048D0E53A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4BA29C6F41B5103A7F6C03EEB3D2917048D0E53A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MPAndroidChart_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
